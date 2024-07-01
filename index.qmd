@@ -1,0 +1,9 @@
+---
+title: "Home"
+---
+
+This is a website for Bhaskar Kumawat.
+
+$$
+\frac{dN}{dt} = rN(1-N)
+$$

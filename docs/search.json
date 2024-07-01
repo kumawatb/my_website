@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is a website for Bhaskar Kumawat.\n\\[\n\\frac{dN}{dt} = rN(1-N)\n\\]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "fun.html",
+    "href": "fun.html",
+    "title": "Fun Stuff",
+    "section": "",
+    "text": "This is a page for fun stuff in quarto."
+  }
+]
